@@ -1,0 +1,6 @@
+﻿  encrypt.c
+C:\Users\Liz\Documents\machshilim\pic\pic\encrypt.c(18,7): warning C4431: missing type specifier - int assumed. Note: C no longer supports default-int
+C:\Users\Liz\Documents\machshilim\pic\pic\encrypt.c(39,18): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Liz\Documents\machshilim\pic\pic\encrypt.c(114,46): warning C4244: '=': conversion from 'double' to 'unsigned char', possible loss of data
+C:\Users\Liz\Documents\machshilim\pic\pic\encrypt.c(236,74): warning C4244: '=': conversion from 'const int' to 'unsigned char', possible loss of data
+  pic.vcxproj -> C:\Users\Liz\Documents\machshilim\pic\Debug\pic.exe
